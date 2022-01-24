@@ -1,0 +1,1 @@
+# sonarQubeK8sAzure
